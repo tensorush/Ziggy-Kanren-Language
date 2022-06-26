@@ -15,9 +15,9 @@
 
 - ### [microKanren](https://github.com/tensorush/Ziggy-Kanren-Language/blob/master/src/micro) :hatching_chick:
 
-  - #### [] Implement working closure type
+  - [] Implement working closure type
 
-  - #### [] Change allocPrint to bufPrint
+  - [] Change allocPrint to bufPrint
 
 - ### miniKanren :hatched_chick:
 
