@@ -7,7 +7,7 @@
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
-## :warning: WIP zero-allocation miniKanren language embedded into Zig ver. 0.9.1.
+## :warning: WIP zero-allocation [miniKanren language](http://minikanren.org/) embedded into Zig ver. 0.9.1.
 
 > ### _Any contributions, corrections or optimizations are very welcome!_ :hugs:
 
@@ -22,8 +22,6 @@
 - ### miniKanren :hatched_chick:
 
 ## :man_teacher: Learning Resources
-
-- ### :globe_with_meridians: [miniKanren Web Site](http://minikanren.org/)
 
 - ### :card_file_box: [Awesome Zig Learning](https://github.com/tensorush/Awesome-PL-Learning#zap-zig)
 
